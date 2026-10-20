@@ -1,0 +1,6 @@
+{
+  "name": "ZyntixCloud",
+  "description": "ZyntixCloud provides Minecraft hosting, VPS, VDS and bare metal infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
